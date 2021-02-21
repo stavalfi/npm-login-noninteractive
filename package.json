@@ -1,7 +1,7 @@
 {
-  "name": "npm-login-noninteractive",
+  "name": "@stavalfi/npm-login-noninteractive",
   "description": "CLI tool to log into an NPM registry and save the credentials to .npmrc",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "author": "Devin Doolin <devin@doolin.io>",
   "homepage": "https://github.com/ddoolin/npm-login-noninteractive#README",
